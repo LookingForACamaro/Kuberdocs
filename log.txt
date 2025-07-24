@@ -1,6 +1,0 @@
-2024-02-01 08:16:38.999000+01:00 [error] <0.1178.0> INTERCEPTED: {content,60,
-2024-02-01 08:16:38.999000+01:00 [error] <0.1178.0>                       {'P_basic',undefined,undefined,[],2,undefined,undefined,
-2024-02-01 08:16:38.999000+01:00 [error] <0.1178.0>                                  undefined,undefined,undefined,undefined,
-2024-02-01 08:16:38.999000+01:00 [error] <0.1178.0>                                  undefined,undefined,undefined,undefined},
-2024-02-01 08:16:38.999000+01:00 [error] <0.1178.0>                       none,none,
-2024-02-01 08:16:38.999000+01:00 [error] <0.1178.0>                       [<<"On est jamais a l'abri d'un coup de bol :-)">>]}
